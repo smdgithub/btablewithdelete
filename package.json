@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap_table_with_delete",
+  "version": "1.11.0",
+  "description": "An improvement of bootstrap table that can permanently delete a row",
+  "main": "bootstrap-table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smdgithub/btablewithdelete.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "table",
+    "with",
+    "row",
+    "delete"
+  ],
+  "author": "Sirmesamm",
+  "license": "MIT <sirrme@gmail.com> (http://sirmesam-microsystem.com/)",
+  "bugs": {
+    "url": "https://github.com/smdgithub/btablewithdelete/issues"
+  },
+  "homepage": "https://github.com/smdgithub/btablewithdelete#readme"
+}
