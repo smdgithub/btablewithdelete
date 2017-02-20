@@ -1,0 +1,1 @@
+An improvement of bootstrap table that can permanently delete a row
